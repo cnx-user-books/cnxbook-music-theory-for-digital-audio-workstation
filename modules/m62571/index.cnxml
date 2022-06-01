@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Music Theory for DAW: Course Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62571</md:content-id>
+  <md:title>Music Theory for DAW: Course Introduction</md:title>
+  <md:abstract>This learning-by-doing course is for digital composers who wish to learn and practice the basic concepts of common practice harmony, without reference to common notation.</md:abstract>
+  <md:uuid>2b72e561-d8f4-4c73-b010-4096c1cbbdd8</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">This is an open, experimental prototype <link document="m62540">learning by doing</link> course. It is intended for people who do not have much formal music education but do have some experience creating music using <emphasis>any digital audio work station (DAW) that has a piano roll editor</emphasis> (for example, FL Studio, ProTools, or GarageBand).
+  </para><note id="eip-321" type="important">Note that some audio editors, such as Audacity, do not have a piano roll editor, which makes them incompatible with this course. I cannot recommend a specific commercial DAW, because the ideal software for you will depend very much on your personal preferences and goals as a musician, composer, and software user. Most commercial DAWs will have a free trial option, to help you decide. If you want to take this course without spending money on a DAW, (at the time of publication) LMMS offers a free, open-source DAW with a piano roll editor.</note><para id="eip-999">Knowing a little theory can open up your options as a music composer, arranger, and producer. Many people who love to work with DAWs cannot read music. If this describes you, you may have encountered an extra challenge when you want to learn useful music theory concepts. It is difficult to discuss the concepts without being able to “point to” specific examples in music, but music theory concepts are typically presented using notated music. Spotting the concepts in a picture of the sound, such as a spectrogram or waveform, can be just as difficult for the beginner as listening for the concept as it goes by in the music. <emphasis>This course explains some basic music theory using the piano roll view to explain and illustrate the concepts. You do not need to be able to read music</emphasis> to learn the theory concepts that can help you exercise more knowledgeable creative control over your digital music projects.</para><para id="eip-152">If you would like general information about learning-by-doing courses, including practical advice for getting the most out of them, please see <link document="m62540">Learning by Doing: An Introduction</link>. Please note that these are short, experimental courses. Feedback is most welcome, and I will develop and expand the courses based on reader interest and feedback.  You will find below:</para><list id="eip-308"><item><link target-id="eip-91">What kind of music theory is featured in this course?</link></item>
+<item><link target-id="eip-91">What will knowing this theory help you do?</link></item>
+<item><link target-id="eip-476">What do you need to take this course?</link></item></list><section id="eip-982"><title>Music Styles and Genres in Common Practice</title><para id="eip-91">The most widely useful music theory was originally developed to help musicians understand the complex “classical” music that first developed in western Europe. However, the theory can also be used to discuss and understand any other style and genre of music that is organized using the same basic principals. This includes many modern pop, rock, and jazz styles from around the world, as well as many of the “folk,” “country,” and “traditional” music styles of some countries. The basic elements of this traditions can be called either <term>Western</term> or <term>common practice</term>. If the type of music that you would like to create <emphasis>features a melody against a background of changing chords and a steady underlying beat</emphasis>, then it is likely that you will find common practice music theory concepts useful. 
+</para><para id="eip-393">Harmony based on changing chords, often called <emphasis>functional harmony</emphasis>, is one of the most fundamental aspects of common practice music, and also one of the most complex and difficult to learn without help. So <emphasis>this course focuses on introducing the most basic and useful harmony concepts</emphasis>, in a way that lets you experiment with them and begin to understand how to use them on your own. You will find the concepts most useful if you are interested in creating music that features melodies against a background of changing chords. If you would like some examples of the types of music that feature functional harmony, search for music labeled as: </para><list id="eip-588"><item>rock
+</item>
+<item>
+jazz
+</item>
+<item>
+reggae
+</item>
+<item>
+pop
+</item>
+<item>
+country and western
+</item>
+<item>
+Baroque era
+</item>
+<item>
+Classical era
+</item>
+<item>
+Romantic era
+</item>
+<item>
+Celtic
+</item>
+<item>
+Folk tradition of a Western European country, or of Western European settlers in Australia or the Americas</item></list><para id="eip-650">If you would like some examples of the types of music that do not feature functional harmony and for which this course will NOT be useful, try searching for music labeled:</para><list id="eip-418"><item>Classical music of an Asian, middle Eastern, or African country
+</item>
+<item>
+Folk tradition of an Asian or African country, or of an indigenous American or Australian people
+</item>
+<item>
+Medieval European chant
+</item>
+<item>
+modern Western “classical” genres such as twelve-tone and <foreign>musique concrete</foreign>
+</item></list><para id="eip-214">If you are more interested in creating music that is not in a common-practice genre, you may find the <link document="col12058">Exploring Music Theories</link> course to be much more useful than this course.</para><para id="eip-960">There are also many contemporary popular styles that are fusions of common-practice and other traditions. Specific pieces in these styles borrow elements from each tradition, so they may or may not feature functional harmony. For example, jazz was originally a fusion of African and European traditions, and chord changes are central to most jazz genres. However, there are more modern fusions of European and African traditions in which rhythm is more central than harmony. Some modern Indian pop uses functional harmony, while some is more firmly rooted in the local raga-over-drone tradition. Similarly, chord changes can be more or less important in rap genres, depending on what sounds the loops feature and how they are used. If you are interested in these types of music, it may be up to you to research the styles you enjoy the most and decide how important it is to you to learn about harmony and chord changes.</para></section><section id="eip-476"><title>What do you need to take this course?</title><list id="eip-774"><title>What you do NOT need:</title><item>You do not need to be able to read music.
+</item>
+<item>
+You do not need any prior knowledge of music theory.
+</item>
+<item> 
+You do not need to be able to play or record “real-world” instruments; working entirely with MIDI, “virtual” or “software” instruments will be easiest.
+</item>
+<item>
+You will not need to use pre-recorded or downloaded loops, although you will have the opportunity to use them if you like.
+</item>
+<item>
+You will not need to create or download drum tracks, although again, you will be able to use them if you like.
+</item>
+<item>
+You will not need an instructor. Although the course can be used in formal teaching situations such as a course or private lessons, it is designed to be doable as a personal exploration of the concepts. If you find it difficult to work alone, and an instructor is not available, you might want to consider doing it with friends who also enjoy making music with DAWs. 
+</item></list><list id="eip-924"><title>What you DO need:</title><item>You will need access to a <emphasis>digital audio workstation (DAW)</emphasis> that lets you manipulate specific notes using a piano roll view, because piano roll will be used instead of notated music to illustrate the concepts. Most commercial DAWs (for example, FL Studio, ProTools, or GarageBand) include a piano roll view. Which is “best” depends a lot on your personal preferences. Many are priced very reasonably and have a free trial version that you can use to find one that has the features that you want. If you are not prepared to spend any money at this time, be aware that Audacity, the most popular open-source sound editor, is not really a full DAW, and does not currently offer a piano roll option. (At the time of publication,) LMMS is a free, open-source DAW.</item>
+<item><emphasis>This is not a how-to-use-your DAW tutorial</emphasis>; “how to” directions are simply too different for the various DAWs that are available. It is assumed that you have already figured out how to (1) use an available DAW to create a track that includes notes from a virtual instrument; (2) edit the track (for example, move notes around) using the piano roll editor; and (3) save your work. If you have trouble doing <link document="m62604" target-id="eip-56">Activity 1 in Lesson 1</link>, look up tutorials on how to use your DAW and practice that activity (or any music-making project that appeals to you) until you can do these 3 actions without frustration. At that point, you will be ready for the rest of the course.</item>
+<item>The <emphasis>music</emphasis> for the activities will not be provided; the learning-by-doing assumption is that you would prefer to work on pieces that you choose. This will require you to be a little resourceful, but you also get to choose how to get your resources. Can you compose or improvise tunes that you like, using MIDI or a virtual instrument? Can you use MIDI or a virtual instrument to recreate, by ear, a favorite tune? Can you find a source of tunes that you can load into your DAW and edit in piano roll view? Can you decide by ear whether a harmony sounds good with a given tune? Can you find chord progressions for some of your favorite tunes? You won't need all of these skills, but if they all sound too difficult, you will probably find this course too frustrating. You may be able to locate a course or instructor that chooses music for you and provides specific materials, directing questions, and “right answers” to smooth your way. Or with some practice and patience, you may be able to develop a few of the needed skills.</item>
+<item>
+You will need to do the activities with an <emphasis>attitude</emphasis> of taking time to explore the concepts and learn what they sound like and how to use them in your own creations. If you try to simply read the lessons quickly, you will likely learn very little. Music theory is not a “memorize the facts” type of knowledge. It is a “learn how to” type of knowledge. Like learning to play an instrument, it takes time and practice, but the result is that you can do something that you could not do before: purposefully construct melodies and harmonies that are in the musical styles that you like.
+</item>
+<item> You will need a reasonable amount of <emphasis>time</emphasis>. Each lesson features a concept that is central to common practice theory, and includes several activities designed to help you understand how the concept is used. Most musicians will need to take a break between activities, so plan on needing several sessions to complete each lesson. In addition, each lesson also includes a number of suggested additional activities. These suggested activities are not necessary, but are designed to help deepen and strengthen your understanding of each concept, making it easier to use it as a base to understand further concepts.
+</item></list></section><note id="eip-297">The <emphasis>audio files in this course</emphasis> are provided in two different formats (mp3 and wav) in order to accommodate a wide variety of hardware and software combinations. If you are still experiencing difficulty listening to or downloading the audio examples, please contact the author.</note></content>
+
+</document>
